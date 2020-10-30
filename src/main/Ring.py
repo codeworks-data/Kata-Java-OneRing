@@ -1,0 +1,2 @@
+class Ring:
+    size = "universal"
