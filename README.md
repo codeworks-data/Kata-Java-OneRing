@@ -1,4 +1,4 @@
-# Kata-Java-OneRing
+# Kata-Python-OneRing
 This kata is inspired by the One Ring in The Lord Of The Ring.
 
 ## Instructions
