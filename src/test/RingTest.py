@@ -12,3 +12,7 @@ class RingTest(unittest.TestCase):
 
     def test_one_ring_with_id(self):
         self.assertEqual(id(self.first_ring), id(self.second_ring))
+
+
+if __name__ == '__main__':
+    unittest.main()
